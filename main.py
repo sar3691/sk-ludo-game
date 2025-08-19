@@ -4,6 +4,7 @@ import os
 import time
 import random
 
+
 # --- Initialization ---
 pygame.init()
 
